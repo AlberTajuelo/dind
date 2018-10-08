@@ -1,4 +1,4 @@
-IMAGE := cirocosta/dind
+IMAGE := albertajuelo/dind
 
 test:
 	true
