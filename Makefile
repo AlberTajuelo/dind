@@ -1,4 +1,4 @@
-IMAGE := albertajuelo/dind
+IMAGE := albertajuelo/dind:v0.0.1
 
 test:
 	true
